@@ -1,0 +1,19 @@
+name: data-intelligence-exam
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - scipy
+  - statsmodels
+  - scikit-learn
+  - nltk
+  - plotnine
+  - ipykernel
+  - jupyterlab
+  - pip
+  - pip:
+      - datasets
